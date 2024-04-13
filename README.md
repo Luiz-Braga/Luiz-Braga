@@ -1,6 +1,6 @@
 ## Olá, Prazer ter você aqui, Me chamo Luiz.
 
-- Tenho interesse em me tornar um grande programador.
+- Tenho interesse em me tornar um grande Desenvolvedor.
 - Atualmente meus estudos estao focados para o Front-end, mas tambem tenho grande interesse no Back-end
 - Contate-me no email: luizbstm@gmail.com
 
